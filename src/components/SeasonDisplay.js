@@ -1,3 +1,5 @@
+import "./SeasonDisplay.css";
+
 const seasonHolder = {
   winter: {
     text: "it's freeking cold!!!",
