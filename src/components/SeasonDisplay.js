@@ -6,7 +6,7 @@ const seasonHolder = {
     iconName: "snowflake",
   },
   summer: {
-    text: "hotter than fire",
+    text: "hotter than fire!!!",
     iconName: "sun",
   },
 };
